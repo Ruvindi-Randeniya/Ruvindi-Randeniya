@@ -37,8 +37,8 @@ I'm passionate about building intuitive and impactful solutions that solve real-
 ---
 
 ## ⚙️ GitHub Analytics  
-![Amasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaprabuddi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amaprabuddi&layout=compact&theme=radical)  
+![Ruvindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruvindi-Randeniya&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruvindi-Randeniya&layout=compact&theme=radical)  
 
 ---
 
