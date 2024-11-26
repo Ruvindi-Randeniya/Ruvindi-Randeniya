@@ -22,7 +22,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img alt="Girl Coding" src="[https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif](https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)" align="right"/>
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
   
   </td>
@@ -46,14 +46,14 @@
   <a href="https://github.com/ruvindi-randeniya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ruvindi-randeniya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/ruvindi-randeniya">
+
+  <a href="https://github.com/ruindi-rndeniya">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ruvindi-randeniya&layout=compact&langs_count=8&theme=algolia"/>
   </a>
-</p>
-
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ruvindi-randeniya&theme=dark&hide_border=true"/>
 </p>
+
 
 ---
 
